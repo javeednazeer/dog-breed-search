@@ -1,0 +1,28 @@
+.search {
+    padding: 11px;
+    background: #edf2ff;
+    border: none;
+    position: relative;
+    float: center;
+}
+
+.label-results {
+    font-size: 16pt;
+    float: left;
+    display: inline;
+    position: relative
+}
+
+.label-sort {
+    font-size: 12pt; 
+    float: right;
+    font-family: sans-serif;
+    padding: 10px
+}
+
+.select {
+    float: right;
+    padding: 10px; 
+    background: #edf2ff;
+    border: none 
+}
